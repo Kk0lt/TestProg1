@@ -9,10 +9,14 @@
 
     <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
         <TextBlock Text="TEST  "></TextBlock>
+
+        <TextBlock Text="Changement de Lyes ok"></TextBlock>
+
         <TextBlock Text="Changement de Lyes"></TextBlock>
         
         <TextBlock Text="Changement d'Antoine - 1"></TextBlock>
-        
+        <TextBlock Text="Changement d'Antoine - 2"></TextBlock>
+
         <Button x:Name="myButton" Click="myButton_Click">Click Me</Button>
     </StackPanel>
 </Window>
